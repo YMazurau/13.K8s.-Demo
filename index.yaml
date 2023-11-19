@@ -3,7 +3,17 @@ entries:
   first-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-19T12:45:14.478154008Z"
+    created: "2023-11-19T13:47:16.24451588Z"
+    description: A Helm chart for Kubernetes
+    digest: f09e5144c7add6245b7ded48440107ebf1c889c9377a927bb38fec64a623041e
+    name: first-app
+    type: application
+    urls:
+    - https://ymazurau.github.io/13.K8s.Demo/helm-releases/first-app-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-19T13:47:16.243872307Z"
     description: A Helm chart for Kubernetes
     digest: 12a640df9d4d235362c922cdd7164183ffa2c1bb165083110510bb8f42e42320
     name: first-app
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://ymazurau.github.io/13.K8s.Demo/helm-releases/first-app-0.1.0.tgz
     version: 0.1.0
-generated: "2023-11-19T12:45:14.477021851Z"
+generated: "2023-11-19T13:47:16.243071119Z"
